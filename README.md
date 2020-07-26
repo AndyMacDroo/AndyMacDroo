@@ -1,4 +1,4 @@
-## :wave: Hello! I'm Andy,
+## :wave: Hello! I'm Andy
 
 I'm a Software Engineer with a passion for DevOps, test driven development and building high quality, resilient software in the quickest way possible.
 
@@ -18,3 +18,7 @@ I'm a Software Engineer with a passion for DevOps, test driven development and b
 * [Yet Another Kubernetes Guide](https://medium.com/better-programming/yet-another-kubernetes-k8s-guide-52377a72ce65)
 
 * [We Overengineered a Teapot](https://medium.com/better-programming/we-overengineered-a-teapot-c718251ce897)
+
+* ["Catch Me If You Can" - A Guide to Debugging](https://hackernoon.com/catch-me-if-you-can-a-guide-to-debugging-f4af08f6724d)
+
+* [Repeatable & Maintainable Development Environments](https://hackernoon.com/repeatable-maintainable-development-environments-45f4589c824)
