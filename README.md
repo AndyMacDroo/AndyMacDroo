@@ -7,7 +7,7 @@ I'm a Software Engineer with a passion for DevOps, test driven development and b
 <a href="https://twitter.com/AndyMacDroo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 </p> 
 
-## Some things I've wrote:
+## Some things I've written:
 
 * [Hadoop, MapReduce and Spark – What’s it all about?](https://www.codewall.co.uk/hadoop-mapreduce-and-spark-whats-it-all-about/)
 
