@@ -9,8 +9,6 @@ I'm a Software Engineer with a passion for DevOps, test driven development and b
 
 ## Some things I've written:
 
-* [Hadoop, MapReduce and Spark – What’s it all about?](https://www.codewall.co.uk/hadoop-mapreduce-and-spark-whats-it-all-about/)
-
 * [Java to C# - C# to Java](https://medium.com/better-programming/java-to-c-c-to-java-f766c9f659c4)
 
 * [Things You Wanted to Know About Networking](https://medium.com/swlh/things-you-wanted-to-know-about-networking-b9537c00d3d3)
