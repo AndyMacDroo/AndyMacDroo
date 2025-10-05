@@ -4,7 +4,6 @@ I'm a Software Engineer with a passion for DevOps, test driven development and b
 
 <p>
 <a href="https://medium.com/@AndyMacDroo"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://twitter.com/AndyMacDroo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 </p> 
 
 ## Some things I've written:
